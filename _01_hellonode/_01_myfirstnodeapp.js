@@ -6,3 +6,5 @@ http.createServer(function (req, res){
     res.end('hello mama Dinosaur!');
     res.end("node is working super fine");
 }).listen(8080);
+
+//notes 

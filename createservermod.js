@@ -10,6 +10,6 @@ http.createServer(function (req, res){
 
 /**
  * function in http.createServer() will 
- * be executed when someone tried to 
+ * be executed when someone tries to 
  * access port 8080
  */
